@@ -2,7 +2,7 @@
 
 decimal_number = int(input("Enter the decimal number: "))
 
-def toBinary(decimal_number):
+def to_binary(decimal_number):
 
     operator_number = decimal_number
     binary = 0
@@ -27,4 +27,4 @@ def toBinary(decimal_number):
     return binary_string
 
 
-print(toBinary(decimal_number)) #Show the binary result as a string
+print(to_binary(decimal_number)) #Show the binary result as a string
