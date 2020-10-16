@@ -1,2 +1,2 @@
 # algorithms
-Solutions to computational problems.
+Solutions to computational problems with Python.
